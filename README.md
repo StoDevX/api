@@ -1,4 +1,4 @@
-# api
+# st. olaf apis
 Descriptions of APIs for St. Olaf-related information
 
 Known:
