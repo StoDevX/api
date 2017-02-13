@@ -11,6 +11,7 @@ Known:
 - BonApp cafe hours
 - BonApp food item details
 - St. Olaf calendars
+- KSTO stream status
 
 Wanted:
 - Course Data (partial)
